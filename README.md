@@ -9,9 +9,7 @@ Commercial banks tend to receive a lot of credit card applications, thus the abi
 Thus, we set out to build an appropriate model that can accurately assess whether an applicant should be approved based on his/her attributes.
 
 ## Files Description
-- credit-approval_csv.csv: The dataset file for this project, it can be downloaded from
-
-http://archive.ics.uci.edu/ml/datasets/credit+approval
+- credit-approval_csv.csv: The dataset file for this project, it can be downloaded from http://archive.ics.uci.edu/ml/datasets/credit+approval
 
 - SC1015 Mini Project.ipynb: The Jupyter Notebook file used in this project which includes data analysis of the dataset and machine learning techniques applied
 
