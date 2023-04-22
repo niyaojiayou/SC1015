@@ -1,6 +1,7 @@
-# SC1015 Mini Project (Z139) Team 8
+# Welcome to SC1015 Mini Project (Z139) Team 8
 
-### Training a model to predict credit card approval applications based on identified attributes.
+###  About
+Our group used some machine learning techniques to build a model on predicting credit card approval applications based on identified attributes.
 
 ## Motivation
 
