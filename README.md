@@ -1,4 +1,8 @@
-# Motivation
+# SC1015 Mini Project (Z139) Team 8
+
+## Training a model to predict credit card approval applications based on identified attributes.
+
+## Motivation
 
 Commercial banks tend to receive a lot of credit card applications, thus the ability to accurately and consistently assess each applicant is vital to the commercial banks’ operations. Previously, credit card companies manually assess the risk of each applicant manually, which is prone to some human inconsistency. This can lead to potentially rejecting valuable customers as well as higher default rates by accepting high-risk customers. By applying machine learning techniques, this process can be automated to streamline the application process while allowing commercial banks to make better informed approval decisions. This can also help consumers by identifying the key attributes involved in credit card applications such that they can improve their credit portfolio, making credit cards more accessible to everyone.
 
