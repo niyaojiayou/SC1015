@@ -17,7 +17,7 @@ Thus, we set out to build an appropriate model that can accurately assess whethe
 ## Summary
 At the end of this project, we have applied several machine learning techniques such as Decision Trees, Random Forest, Logistic Regression etc. to gradually train our model and improve its performance. Furthermore, we have also managed to identify the attributes that are important when it comes to assessing credit card approvals.
 
-Applicants with the following attributes have a higher chance of getting approved:
+To have a higher chance of getting approved, applicants:
 1. should not have an outstanding debt > $2350 
 2. should have a minimal monthly income of > $397
 3. should be holding an existing job position for at least 5 years
